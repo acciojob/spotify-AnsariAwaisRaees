@@ -93,4 +93,3 @@ public class SpotifyController {
         //return the song title with maximum likes
         return spotifyService.mostPopularSong();
     }
-}
